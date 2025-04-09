@@ -6,11 +6,10 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.web.servlet.ModelAndView;
-import ut.websocketbot.AppConstants;
+import ut.websocketbot.util.AppConstants;
 import ut.websocketbot.entity.MessageDTO;
 import ut.websocketbot.factory.MessageFactory;
 import ut.websocketbot.model.Message;
-import ut.websocketbot.model.User;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package ut.websocketbot;
+package ut.websocketbot.util;
 
 public class AppConstants {
 
